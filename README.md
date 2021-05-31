@@ -4,6 +4,9 @@
 
 * Build an interactive dashboard to explore the [Belly Button Biodiversity dataset](http://robdunnlab.com/projects/belly-button-biodiversity/), which catalogs the microbes that colonize human navels.
 
+![image](https://user-images.githubusercontent.com/72557712/120235160-b19f2c80-c216-11eb-881d-236c6862a1f3.png)
+
+
 ## Files:
 * index.html file
 * 'static/js' folder includes app.js file
